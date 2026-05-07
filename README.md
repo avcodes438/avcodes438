@@ -1,4 +1,4 @@
-[profile-README.md](https://github.com/user-attachments/files/27482006/profile-README.md)
+
 <!--
     Hi! I'm Aaryasinh Vaghela.
     Welcome to my GitHub — feel free to explore my work in
