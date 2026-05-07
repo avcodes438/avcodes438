@@ -15,8 +15,8 @@
 
 I work at the intersection of biomedical engineering, machine learning, and clinical translation. I build tools that help doctors make decisions faster and patients live better — physics-informed neural networks for vascular hemodynamics, real-time decision-support systems, and the occasional public-health technology project.
 
-🩺 Currently researching at **Stanford Medicine, Department of Radiology**
-🧬 Previously at **Harvard Medical School Hemato-Oncology** under Dr. Vicki Boussiotis
+🩺 Currently working at **The MITRE Corportation, Chemistry Researcher**
+🧬 Previously at **Stanford Medicine, Department of Radiology**, **Harvard Medical School Hemato-Oncology**
 🦿 International Coordinator at **Jaipur Foot USA** — supporting limb camps that have served 2.3M+ across 42 countries
 📚 Founder & CEO of **Alliance Tutors** — STEM tutoring connecting U.S. students with expert educators overseas
 
