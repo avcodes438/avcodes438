@@ -82,10 +82,10 @@ I work at the intersection of biomedical engineering, machine learning, and clin
 ### Publications
 
 <div>
-  <a href="https://scholar.google.com/](https://scholar.google.com/citations?user=zZgfirMAAAAJ&hl=en">
+  <a href="https://scholar.google.com/citations?user=zZgfirMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://orcid.org/](https://orcid.org/0009-0002-7942-8693">
+  <a href="https://orcid.org/0009-0002-7942-8693">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </div>
