@@ -100,7 +100,7 @@ I work at the intersection of biomedical engineering, machine learning, and clin
 - 🎤 **United Nations Speaker** — 18th Convention of Rights of Persons with Disabilities (Jun 2025) → $75K in donations
 - 🏛️ **Congressional Award** — Excellence in Biomedical Engineering, Rep. James Walkinshaw VA-11 (Mar 2025)
 - 🥇 **Howard University Omega Psi Phi** — Dr. Edgar A. Love Award for Excellence in Biomedical Engineering (Apr 2025)
-- 🥈 **Startups @ Spring** — 2nd Place Nationally (<1% of 700+ teams)
+- 🥈 **Startups @ Spring** — 1st Place Nationally (<1% of 700+ teams)
 - 🌎 **Blue Ocean Entrepreneurship** — Global Finalist (top 300 of 14,000+ from 165 countries)
 - 🚀 **Conrad Challenge** — Conrad Innovator, Houston Space Center (Mar 2025)
 
