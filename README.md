@@ -3,7 +3,7 @@
 Biomedical engineering and machine learning. I build physics-informed models of blood flow,
 EEG-based wearables, and computational tools for drug discovery.
 
-Incoming at **Stanford University** (B.S. Electrical Engineering, B.S. Bioengineering, Class of 2029).
+Currently at **Stanford University** (B.S. Electrical Engineering, B.S. Bioengineering, Class of 2029).
 
 - **Now** — Computational Biology Intern, **The MITRE Corporation** (Advancing Defense Pharmaceuticals)
 - **Previously** — Medical AI Researcher, **Stanford University School of Medicine**, Department of Radiology
