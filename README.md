@@ -1,134 +1,75 @@
+# Aaryasinh Vaghela
 
-<!--
-    Hi! I'm Aaryasinh Vaghela.
-    Welcome to my GitHub — feel free to explore my work in
-    physics-informed ML, biomedical engineering, and clinical research.
--->
+Biomedical engineering and machine learning. I build physics-informed models of blood flow,
+EEG-based wearables, and computational tools for drug discovery.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=header" alt="header"/>
+Incoming at **Stanford University** (B.S. Electrical Engineering, B.S. Bioengineering, Class of 2029).
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4A90E2&width=600&lines=Hello%2C+I'm+Aaryasinh+Vaghela;Biomedical+Engineering+%2B+ML+Researcher;Stanford+Medicine+%7C+Harvard+HemOnc;USPTO+Patent+Holder" alt="Aaryasinh Vaghela"/>
-</a>
+- **Now** — Computational Biology Intern, **The MITRE Corporation** (Advancing Defense Pharmaceuticals)
+- **Previously** — Medical AI Researcher, **Stanford University School of Medicine**, Department of Radiology
+- **Previously** — Research Intern, **Harvard Medical School** (hemato-oncology and immunology labs)
+- **Also** — International Youth Coordinator, **Jaipur Foot USA (BMVSS)**, the world's largest
+  prosthetic-limb NGO — 2.3M+ beneficiaries across 42 countries
+- **Founded** — **Alliance Tutors**, an international STEM tutoring venture (2020–2025)
 
-### About me
+## Selected work
 
-I work at the intersection of biomedical engineering, machine learning, and clinical translation. I build tools that help doctors make decisions faster and patients live better — physics-informed neural networks for vascular hemodynamics, real-time decision-support systems, and the occasional public-health technology project.
+- **[vascupinn](https://github.com/avcodes438/vascupinn)** — Physics-informed neural network solving
+  Navier–Stokes with Carreau–Yasuda non-Newtonian rheology for blood flow in patient-specific
+  vasculature. Covered by a USPTO provisional patent.
+- **[nebulab-eeg](https://github.com/avcodes438/nebulab-eeg)** — Single-channel EEG acquisition chain,
+  overnight recording, and ESP32-S3 escalating-haptic wake firmware for a closed-loop sleep-inertia system.
+- **[pinn-pulsatile-drug-delivery](https://github.com/avcodes438/pinn-pulsatile-drug-delivery)** ·
+  **[pinn-aneurysmal-bifurcated](https://github.com/avcodes438/pinn-aneurysmal-bifurcated)** ·
+  **[pinn-hybrid-experimental](https://github.com/avcodes438/pinn-hybrid-experimental)** —
+  Reproducibility code for the three publications below.
+- **[safesip](https://github.com/avcodes438/safesip)** — Drink-spiking detection device: spectroscopic
+  sensing concept, whitepaper, and business case.
+- **[newweb](https://github.com/avcodes438/newweb)** — Personal site in Next.js over a hand-coded
+  generative illustration; seeded PRNG for hydration-safe static prerender, contrast verified by computation.
 
-🩺 Currently working at **The MITRE Corportation, Chemistry Researcher**
-🧬 Previously at **Stanford Medicine, Department of Radiology**, **Harvard Medical School Hemato-Oncology**
-🦿 International Coordinator at **Jaipur Foot USA** — supporting limb camps that have served 2.3M+ across 42 countries
-📚 Founder & CEO of **Alliance Tutors** — STEM tutoring connecting U.S. students with expert educators overseas
+## Publications
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,matlab,r,git,github,linux,bash,docker,latex,vscode)](https://skillicons.dev)
+Sole author on all three.
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=cuda,kubernetes,julia)](https://skillicons.dev)
+1. [PINN-Based Pulsatile Flow Modelling and Targeted Drug Delivery Optimization in Computational
+   Hemodynamics](https://pubmed.ncbi.nlm.nih.gov/41522916/) — *Journal of Pharmacy and Bioallied
+   Sciences* (Wolters Kluwer), December 2025
+2. [Hybrid PINNs with Experimental Data for Real-Time Hemodynamic Prediction and Clinical Decision
+   Support](https://scholar.google.com/citations?user=zZgfirMAAAAJ) — *International Journal of
+   Medical and Pharmaceutical Research*, December 2025
+3. [Functional and Ethical Modeling of Non-Newtonian Hemodynamics in Aneurysmal and Bifurcated
+   Vessels Using Physics-Informed Neural Networks](https://sci-cult.net/index.php/cult/article/download/1364/552/7291)
+   — *Scientific Culture*, October 2025
 
-### Featured Work
+## Patents
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/avcodes438/vascupinn">
-        <strong>🔬 VascuPINN</strong>
-      </a>
-      <br/>
-      <sub>Physics-informed neural network for non-Newtonian blood flow modeling. USPTO provisional patent (Feb 2025); used in vascular surgery in India.</sub>
-    </td>
-    <td>
-      <a href="https://github.com/avcodes438/pinn-aneurysmal-bifurcated">
-        <strong>📄 PINN — Aneurysmal & Bifurcated Vessels</strong>
-      </a>
-      <br/>
-      <sub>Reproducibility code for <em>Scientific Culture</em>, October 2025.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/avcodes438/pinn-hybrid-experimental">
-        <strong>📄 Hybrid PINN with Experimental Data</strong>
-      </a>
-      <br/>
-      <sub>Reproducibility code for <em>Int'l Journal of Medical & Pharmaceutical Research</em>, December 2025.</sub>
-    </td>
-    <td>
-      <a href="https://github.com/avcodes438/pinn-pulsatile-drug-delivery">
-        <strong>📄 PINN — Pulsatile Flow & Drug Delivery</strong>
-      </a>
-      <br/>
-      <sub>Reproducibility code for <em>Journal of Pharmacy and Bioallied Sciences</em>, December 2025.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/avcodes438/safesip">
-        <strong>🥤 SafeSip</strong>
-      </a>
-      <br/>
-      <sub>Drink-spiking detection concept. 2nd place nationally at Startups @ Spring; Blue Ocean global finalist.</sub>
-    </td>
-    <td>
-      <a href="https://github.com/avcodes438/alliance-tutors">
-        <strong>📚 Alliance Tutors</strong>
-      </a>
-      <br/>
-      <sub>STEM tutoring company I founded in 2020. $15K+ revenue, 30 students, 12 tutors.</sub>
-    </td>
-  </tr>
-</table>
+- **USPTO Provisional** — "VascuPINN" blood flow modeling system (February 2025). Sole inventor.
+- **USPTO Provisional** — A closed-loop multimodal stimulation system and method for reduction of
+  sleep inertia (2026).
 
-### Publications
+## Selected recognition
 
-<div>
-  <a href="https://scholar.google.com/citations?user=zZgfirMAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <a href="https://orcid.org/0009-0002-7942-8693">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-</div>
+- **Morehead-Cain Scholarship** — full-ride merit scholarship to UNC Chapel Hill; declined for Stanford
+- **MITRE AI Hackathon** — Winner (2026); the only high school student competing against graduate teams
+- **Special Congressional Recognition & Award** (November 2025) — Rep. James Walkinshaw (VA-11), for
+  excellence in biomedical engineering; entered into the Congressional Record
+- **Dr. Edgar A. Love Award for Excellence in Biomedical Engineering** (November 2025) — Howard
+  University, Omega Psi Phi / Omega STEM Foundation
+- **United Nations Delegate & Speaker** (June 2025) — 18th Convention on the Rights of Persons with
+  Disabilities, representing Jaipur Foot USA
+- **Startups @ Spring** — 1st nationally of 700+ (2026); 2nd nationally of 700+ (2025)
+- **Valedictorian**, BASIS Independent McLean, Class of 2026
 
-- *Functional and Ethical Modeling of Non-Newtonian Hemodynamics in Aneurysmal and Bifurcated Vessels Using Physics-Informed Neural Networks* — **Scientific Culture**, October 2025
-- *Hybrid PINNs with Experimental Data for Real-Time Hemodynamic Prediction and Clinical Decision Support* — **International Journal of Medical and Pharmaceutical Research**, December 2025
-- *Physics-Informed Neural Network–Based Pulsatile Flow Modelling and Targeted Drug Delivery Optimization in Computational Hemodynamics* — **Journal of Pharmacy and Bioallied Sciences**, December 2025
+## Tools
 
-### Recognition
+Python · PyTorch · NumPy/SciPy · C/C++ · Arduino/ESP32 · MATLAB · R · SLURM and GPU/HPC clusters ·
+TypeScript/Next.js · LaTeX · Git · Linux
 
-- 🏅 **USPTO Provisional Patent Holder** — Blood Flow Modeling System (Feb 2025)
-- 🎤 **United Nations Speaker** — 18th Convention of Rights of Persons with Disabilities (Jun 2025) → $75K in donations
-- 🏛️ **Congressional Award** — Excellence in Biomedical Engineering, Rep. James Walkinshaw VA-11 (Mar 2025)
-- 🥇 **Howard University Omega Psi Phi** — Dr. Edgar A. Love Award for Excellence in Biomedical Engineering (Apr 2025)
-- 🥈 **Startups @ Spring** — 1st Place Nationally (<1% of 700+ teams)
-- 🌎 **Blue Ocean Entrepreneurship** — Global Finalist (top 300 of 14,000+ from 165 countries)
-- 🚀 **Conrad Challenge** — Conrad Innovator, Houston Space Center (Mar 2025)
+## Contact
 
-### Connect with me!
-
-<div>
-    <a href="mailto:aaryasinh.vaghela@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/avcodes438">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</div>
-
-### GitHub Stats
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=avcodes438&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcodes438&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</div>
-
-### Recruiter?
-
-> [!IMPORTANT]
-> Resume available on request — reach out via [email](mailto:aaryasinh.vaghela@gmail.com).
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" alt="footer"/>
-
-<!--
-    Thanks for stopping by!
--->
+- Email — <aaryasinh.vaghela@gmail.com>
+- Website — [avaghela.com](https://avaghela.com)
+- LinkedIn — [aaryasinh-vaghela](https://www.linkedin.com/in/aaryasinh-vaghela)
+- Google Scholar — [profile](https://scholar.google.com/citations?user=zZgfirMAAAAJ)
+- ORCID — [0009-0002-7942-8693](https://orcid.org/0009-0002-7942-8693)
