@@ -22,7 +22,8 @@ Incoming at **Stanford University** (B.S. Electrical Engineering, B.S. Bioengine
 - **[pinn-pulsatile-drug-delivery](https://github.com/avcodes438/pinn-pulsatile-drug-delivery)** ·
   **[pinn-aneurysmal-bifurcated](https://github.com/avcodes438/pinn-aneurysmal-bifurcated)** ·
   **[pinn-hybrid-experimental](https://github.com/avcodes438/pinn-hybrid-experimental)** —
-  Reproducibility code for the three publications below.
+  Method components and case definitions for the three publications below. Each repo's Status
+  section states plainly what is and isn't released.
 - **[safesip](https://github.com/avcodes438/safesip)** — Drink-spiking detection device: spectroscopic
   sensing concept, whitepaper, and business case.
 - **[newweb](https://github.com/avcodes438/newweb)** — Personal site in Next.js over a hand-coded
