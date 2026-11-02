@@ -8,9 +8,9 @@
 
 &nbsp;
 
-**aarya**
+**Aarya**
 
-stanford 2030
+Stanford 2030
 
 &nbsp;
 
