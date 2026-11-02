@@ -10,8 +10,7 @@
 
 **aarya**
 
-i build at the seam of biology and machine learning —
-blood that obeys physics, brains that talk in microvolts, small machines that help.
+stanford 2030
 
 &nbsp;
 
